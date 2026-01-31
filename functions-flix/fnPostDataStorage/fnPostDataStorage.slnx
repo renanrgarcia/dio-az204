@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="fnPostDatabase/fnPostDatabase.csproj" Id="e35f5ff4-5e35-4b53-8bc2-d417fbbaeb8b" />
   <Project Path="fnPostDataStorage/fnPostDataStorage.csproj" />
 </Solution>
